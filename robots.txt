@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ertionta.github.io/sitemap.html
+Sitemap: https://ertionta.github.io/app/sitemap.html
+Sitemap: https://ertionta.github.io/assets/sitemap.html
+Sitemap: https://ertionta.github.io/css/sitemap.html
+Sitemap: https://ertionta.github.io/includes/sitemap.html
+Sitemap: https://ertionta.github.io/item/sitemap.html
+Sitemap: https://ertionta.github.io/src/sitemap.html
